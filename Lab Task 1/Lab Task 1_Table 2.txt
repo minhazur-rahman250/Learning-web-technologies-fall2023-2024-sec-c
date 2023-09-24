@@ -1,0 +1,38 @@
+<Students>
+    <STUDENT>
+        <SL_NO>             23             </SL_NO>
+        <NAME>                           
+                    <fIRST_NAME>    John    </fIRST_NAME>
+                    <LAST_NAME>     Carter    </LAST_NAME>
+        <NAME>
+        <ADMISSION_DATE>
+            <DAY>             25            </DAY>
+            <MONTH>           12           </MONTH>
+            <YEAR>           2015           </YEAR>
+        </ADMISSION_DATE>
+    </STUDENT>
+    <STUDENT>
+        <SL_NO>                     29         </SL_NO>
+        <NAME>                           
+                    <fIRST_NAME>    Bob        </fIRST_NAME>
+                    <LAST_NAME>     Marshal    </LAST_NAME>
+        <NAME>
+        <ADMISSION_DATE>
+            <DAY>                 13          </DAY>
+            <MONTH>               01         </MONTH>
+            <YEAR>               1999         </YEAR>
+        </ADMISSION_DATE>
+    </STUDENT>
+    <STUDENT>
+        <SL_NO>                     35       </SL_NO>
+        <NAME>                           
+                    <fIRST_NAME>    Clark    </fIRST_NAME>
+                    <LAST_NAME>     Kent     </LAST_NAME>
+        <NAME>
+        <ADMISSION_DATE>
+            <DAY>                     17          </DAY>
+            <MONTH>                   06     </MONTH>
+            <YEAR>                   2005   </YEAR>
+        </ADMISSION_DATE>
+    </STUDENT>
+</Students>
